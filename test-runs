@@ -1,0 +1,103 @@
+##Test Run 1
+##
+##Enter Yearly Interest Rate: 2.5
+##Enter number of years as an integer: 5
+##Enter loan amount: 1000.00
+##Enter a borrower's name: John Jones
+##The loan is for John Jones
+##The monthly payment is 17.75
+##The total payment is 1064.84
+##
+##Do you want to change the loan amount? Y for yes or enter to quit y
+##Enter new loan amount 5000
+##The loan is for John Jones
+##The monthly payment is 88.74
+##The total payment is 5324.21
+##
+##Do you want to change the loan amount? Y for yes or enter to quit
+##
+##
+##
+##Test Run 2
+##
+##Enter Yearly Interest Rate: 6.25
+##Enter number of years as an integer: 20
+##Enter loan amount: 150295.99
+##Enter a borrower's name: Jerry Gao
+##The loan is for Jerry Gao
+##The monthly payment is 1098.56
+##The total payment is 263653.39
+##
+##Do you want to change the loan amount? Y for yes or enter to quit y
+##Enter new loan amount 205820.50
+##The loan is for Jerry Gao
+##The monthly payment is 1504.40
+##The total payment is 361056.02
+##
+##Do you want to change the loan amount? Y for yes or enter to quit 
+##
+##
+##
+##Test Run 3
+##
+##Enter Yearly Interest Rate: 11.5
+##Enter number of years as an integer: 30
+##Enter loan amount: 650420.55
+##Enter a borrower's name: Jerry Gao
+##The loan is for Jerry Gao
+##The monthly payment is 6441.06
+##The total payment is 2318781.23
+##
+##Do you want to change the loan amount? Y for yes or enter to quit y
+##Enter new loan amount 250565.78
+##The loan is for Jerry Gao
+##The monthly payment is 2481.33
+##The total payment is 893279.32
+##
+##Do you want to change the loan amount? Y for yes or enter to quit 
+##
+##
+##
+##Test Run 4
+##
+##Enter Yearly Interest Rate: 8.48
+##Enter number of years as an integer: 20
+##Enter loan amount: 780299.24
+##Enter a borrower's name: Elon Musk
+##The loan is for Elon Musk
+##The monthly payment is 6761.74
+##The total payment is 1622818.58
+##
+##Do you want to change the loan amount? Y for yes or enter to quit y
+##Enter new loan amount 1080928018.28
+##The loan is for Elon Musk
+##The monthly payment is 9366866.26
+##The total payment is 2248047901.84
+##
+##Do you want to change the loan amount? Y for yes or enter to quit y
+##Enter new loan amount 12987612.23
+##The loan is for Elon Musk
+##The monthly payment is 112545.17
+##The total payment is 27010840.62
+##
+##Do you want to change the loan amount? Y for yes or enter to quit    
+##
+##
+##
+##Test Run 5
+##
+##Enter Yearly Interest Rate: 7.77
+##Enter number of years as an integer: 15
+##Enter loan amount: 333777.66
+##Enter a borrower's name: Lucky McLuck
+##The loan is for Lucky McLuck
+##The monthly payment is 3145.59
+##The total payment is 566206.77
+##
+##Do you want to change the loan amount? Y for yes or enter to quit y
+##Enter new loan amount 777777.55
+##The loan is for Lucky McLuck
+##The monthly payment is 7329.94
+##The total payment is 1319390.02
+##
+##Do you want to change the loan amount? Y for yes or enter to quit 
