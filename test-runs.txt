@@ -23,8 +23,8 @@
 ##Enter Yearly Interest Rate: 6.25
 ##Enter number of years as an integer: 20
 ##Enter loan amount: 150295.99
-##Enter a borrower's name: Jerry Gao
-##The loan is for Jerry Gao
+##Enter a borrower's name: Jerry
+##The loan is for Jerry
 ##The monthly payment is 1098.56
 ##The total payment is 263653.39
 ##
@@ -43,14 +43,14 @@
 ##Enter Yearly Interest Rate: 11.5
 ##Enter number of years as an integer: 30
 ##Enter loan amount: 650420.55
-##Enter a borrower's name: Jerry Gao
-##The loan is for Jerry Gao
+##Enter a borrower's name: Jerry
+##The loan is for Jerry
 ##The monthly payment is 6441.06
 ##The total payment is 2318781.23
 ##
 ##Do you want to change the loan amount? Y for yes or enter to quit y
 ##Enter new loan amount 250565.78
-##The loan is for Jerry Gao
+##The loan is for Jerry
 ##The monthly payment is 2481.33
 ##The total payment is 893279.32
 ##
